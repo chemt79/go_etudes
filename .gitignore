@@ -1,0 +1,7 @@
+# IDE's configs
+.vscode
+.idea
+
+# Debugging artefacts
+debug
+
